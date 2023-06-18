@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="MobileApps" time="139.539" tests="1" failures="0" errors="0">
+   <testsuite name="MobileApps" tests="1" failures="0" errors="0" time="139.539" skipped="0" timestamp="2023-06-05 13:51:36" hostname="WARISAN BAPAK WAHYU - DESKTOP-8Q8DEND" id="Test Suites/MobileApps">
+      <properties>
+         <property name="deviceName" value="Xiaomi Redmi Note 8 Pro (Android 11)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127"/>
+         <property name="logFiles" value="C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\appium.log, C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685947957587.png, C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685947976828.png, C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685947990608.png, C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685948005264.png, C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685948019316.png, C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685948032884.png"/>
+         <property name="hostName" value="WARISAN BAPAK WAHYU - DESKTOP-8Q8DEND"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;value&quot;:{&quot;build&quot;:{&quot;version&quot;:&quot;1.22.3&quot;}},&quot;sessionId&quot;:null,&quot;status&quot;:0}"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.22.3"/>
+         <property name="deviceModel" value="Redmi Note 8 Pro"/>
+         <property name="hostAddress" value="192.168.18.6"/>
+         <property name="deviceManufacturer" value="Xiaomi"/>
+         <property name="deviceId" value="xobelrqg7povqo5d"/>
+         <property name="deviceName" value="Xiaomi Redmi Note 8 Pro (Android 11)"/>
+         <property name="deviceOSVersion" value="11"/>
+      </properties>
+      <testcase name="Test Cases/Shopee-Login" time="138.937" classname="Test Cases/Shopee-Login" status="PASSED">
+         <system-out><![CDATA[2023-06-05 13:51:37 - [TEST_CASE][PASSED] - Test Cases/Shopee-Login: Test Cases/Shopee-Login
+
+2023-06-05 13:51:37 - [TEST_STEP][PASSED] - startApplication("Apk/Shopee.apk", false): Started app at: 'C:\Users\WARISAN BAPAK WAHYU\Katalon Studio\mobileapps\Apk\Shopee.apk'
+
+2023-06-05 13:51:38 - [MESSAGE][INFO] - Detected NodeJS location: "C:\Program Files\nodejs\node.exe"
+
+2023-06-05 13:51:41 - [MESSAGE][INFO] - Appium server started on port 55,453
+
+2023-06-05 13:52:27 - [MESSAGE][PASSED] - Started app at: 'C:\Users\WARISAN BAPAK WAHYU\Katalon Studio\mobileapps\Apk\Shopee.apk'
+
+2023-06-05 13:52:27 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-06-05 13:52:37 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-06-05 13:52:37 - [TEST_STEP][PASSED] - takeScreenshot(): Screenshot is taken
+
+2023-06-05 13:52:38 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685947957587.png]]
+
+2023-06-05 13:52:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-06-05 13:52:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-05 13:52:40 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Test-ShopeeAPK/btn-Mulai"), 5): Tapped on element 'Object Repository/Test-ShopeeAPK/btn-Mulai'
+
+2023-06-05 13:52:46 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Test-ShopeeAPK/btn-Mulai'
+
+2023-06-05 13:52:46 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-06-05 13:52:56 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-06-05 13:52:56 - [TEST_STEP][PASSED] - takeScreenshot(): Screenshot is taken
+
+2023-06-05 13:52:58 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685947976828.png]]
+
+2023-06-05 13:52:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-06-05 13:53:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-05 13:53:00 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Test-ShopeeAPK/btn-PulsaTagihanTiket"), 5): Tapped on element 'Object Repository/Test-ShopeeAPK/btn-PulsaTagihanTiket'
+
+2023-06-05 13:53:00 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Test-ShopeeAPK/btn-PulsaTagihanTiket'
+
+2023-06-05 13:53:00 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-06-05 13:53:10 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-06-05 13:53:10 - [TEST_STEP][PASSED] - takeScreenshot(): Screenshot is taken
+
+2023-06-05 13:53:11 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685947990608.png]]
+
+2023-06-05 13:53:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-06-05 13:53:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-05 13:53:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Test-ShopeeAPK/input-NoHp,Email,Username"), email, 20): Text 'akundummyapk@gmail.com' has been set to element 'Object Repository/Test-ShopeeAPK/input-NoHp,Email,Username'
+
+2023-06-05 13:53:15 - [MESSAGE][PASSED] - Text 'akundummyapk@gmail.com' has been set to element 'Object Repository/Test-ShopeeAPK/input-NoHp,Email,Username'
+
+2023-06-05 13:53:15 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-06-05 13:53:25 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-06-05 13:53:25 - [TEST_STEP][PASSED] - takeScreenshot(): Screenshot is taken
+
+2023-06-05 13:53:25 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685948005264.png]]
+
+2023-06-05 13:53:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-06-05 13:53:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-05 13:53:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Test-ShopeeAPK/input-Password (1)"), password, 20): Text 'Merdeka123' has been set to element 'Object Repository/Test-ShopeeAPK/input-Password (1)'
+
+2023-06-05 13:53:29 - [MESSAGE][PASSED] - Text 'Merdeka123' has been set to element 'Object Repository/Test-ShopeeAPK/input-Password (1)'
+
+2023-06-05 13:53:29 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-06-05 13:53:39 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-06-05 13:53:39 - [TEST_STEP][PASSED] - takeScreenshot(): Screenshot is taken
+
+2023-06-05 13:53:39 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685948019316.png]]
+
+2023-06-05 13:53:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-06-05 13:53:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2023-06-05 13:53:41 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/Test-ShopeeAPK/btn-Login"), 5): Tapped on element 'Object Repository/Test-ShopeeAPK/btn-Login'
+
+2023-06-05 13:53:42 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/Test-ShopeeAPK/btn-Login'
+
+2023-06-05 13:53:42 - [TEST_STEP][PASSED] - delay(10): Delayed 10 second(s)
+
+2023-06-05 13:53:52 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2023-06-05 13:53:52 - [TEST_STEP][PASSED] - takeScreenshot(): Screenshot is taken
+
+2023-06-05 13:53:53 - [MESSAGE][PASSED] - Screenshot is taken
+[[ATTACHMENT|C:\\Users\\WARISAN BAPAK WAHYU\\Katalon Studio\\mobileapps\\Reports\\20230605_135127\\MobileApps\\20230605_135127\\1685948032884.png]]
+
+2023-06-05 13:53:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2023-06-05 13:53:55 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-05 13:51:36 - [TEST_SUITE][PASSED] - MobileApps: Test Cases/Shopee-Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

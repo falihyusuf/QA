@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+MobileApps,,,,2023-06-05 13:51:36,2023-06-05 13:53:55,2m - 19.539s,PASSED
+,,,,,,,
+Test Cases/Shopee-Login,,,,2023-06-05 13:51:37,2023-06-05 13:53:55,2m - 18.937s,PASSED
+"startApplication(""Apk/Shopee.apk"", false)",,,,2023-06-05 13:51:37,2023-06-05 13:52:27,49.668s,PASSED
+delay(10),,,,2023-06-05 13:52:27,2023-06-05 13:52:37,10.077s,PASSED
+takeScreenshot(),,,,2023-06-05 13:52:37,2023-06-05 13:52:38,1.295s,PASSED
+delay(2),,,,2023-06-05 13:52:38,2023-06-05 13:52:40,2.018s,PASSED
+"tap(findTestObject(""Object Repository/Test-ShopeeAPK/btn-Mulai""), 5)",,,,2023-06-05 13:52:40,2023-06-05 13:52:46,5.952s,PASSED
+delay(10),,,,2023-06-05 13:52:46,2023-06-05 13:52:56,10.008s,PASSED
+takeScreenshot(),,,,2023-06-05 13:52:56,2023-06-05 13:52:58,1.227s,PASSED
+delay(2),,,,2023-06-05 13:52:58,2023-06-05 13:53:00,2.011s,PASSED
+"tap(findTestObject(""Object Repository/Test-ShopeeAPK/btn-PulsaTagihanTiket""), 5)",,,,2023-06-05 13:53:00,2023-06-05 13:53:00,0.524s,PASSED
+delay(10),,,,2023-06-05 13:53:00,2023-06-05 13:53:10,10.017s,PASSED
+takeScreenshot(),,,,2023-06-05 13:53:10,2023-06-05 13:53:11,0.492s,PASSED
+delay(2),,,,2023-06-05 13:53:11,2023-06-05 13:53:13,2.010s,PASSED
+"setText(findTestObject(""Object Repository/Test-ShopeeAPK/input-NoHp,Email,Username""), email, 20)",,,,2023-06-05 13:53:13,2023-06-05 13:53:15,2.133s,PASSED
+delay(10),,,,2023-06-05 13:53:15,2023-06-05 13:53:25,10.019s,PASSED
+takeScreenshot(),,,,2023-06-05 13:53:25,2023-06-05 13:53:25,0.494s,PASSED
+delay(2),,,,2023-06-05 13:53:25,2023-06-05 13:53:27,2.008s,PASSED
+"setText(findTestObject(""Object Repository/Test-ShopeeAPK/input-Password (1)""), password, 20)",,,,2023-06-05 13:53:27,2023-06-05 13:53:29,1.536s,PASSED
+delay(10),,,,2023-06-05 13:53:29,2023-06-05 13:53:39,10.013s,PASSED
+takeScreenshot(),,,,2023-06-05 13:53:39,2023-06-05 13:53:39,0.519s,PASSED
+delay(2),,,,2023-06-05 13:53:39,2023-06-05 13:53:41,2.011s,PASSED
+"tap(findTestObject(""Object Repository/Test-ShopeeAPK/btn-Login""), 5)",,,,2023-06-05 13:53:41,2023-06-05 13:53:42,1.019s,PASSED
+delay(10),,,,2023-06-05 13:53:42,2023-06-05 13:53:52,10.018s,PASSED
+takeScreenshot(),,,,2023-06-05 13:53:52,2023-06-05 13:53:53,1.039s,PASSED
+delay(2),,,,2023-06-05 13:53:53,2023-06-05 13:53:55,2.018s,PASSED
