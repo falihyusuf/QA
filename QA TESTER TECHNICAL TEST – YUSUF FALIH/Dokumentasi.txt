@@ -1,0 +1,11 @@
+1. Buka Katalon Studio.
+
+2. Pilih Proyek: Pilih atau buat proyek di mana ingin menjalankan tes.
+
+3. Buka Test Case: Di dalam proyek, buka Test Case yang telah  dibuat, contohnya "BookingValidationTest".
+
+4. Atur Browser: Di dalam skrip, ubah URL pada WebUI.openBrowser() dengan URL aplikasi yang ingin diuji.
+
+5. Run Test Case: Klik tombol "Run" di atas untuk menjalankan Test Case.
+
+6. Lihat Hasil: Setelah pengujian selesai, hasilnya bisa dilihat di log Katalon Studio. Jika terdapat perbedaan harga atau masalah lain yang diidentifikasi, akan ditampilkan pesan kesalahan yang sesuai.
